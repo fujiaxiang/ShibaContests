@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  position: relative;
+}
+
+h1{
+  text-align: center;
+  color: #f4d442;
+}
+
+.winner{
+  margin: auto;
+  width: 50%;
+}
+
+.pictures{
+  margin: 40px 15px 0px 15px;
+}
